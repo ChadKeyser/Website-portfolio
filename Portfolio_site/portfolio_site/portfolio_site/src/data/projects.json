@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Project A",
+        "imageSrc":"PROJECT_ICON/web-design.png",
+        "description": "This project includes a website used to display employee skills",
+        "skills": ["React", "CSS"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+
+    },
+    {
+        "title": "Project B",
+        "imageSrc":"TESTPROJECT_ICON/computer.png",
+        "description": "To be created... ",
+        "skills": [],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+
+    },
+    {
+        "title": "Project C",
+        "imageSrc":"TESTPROJECT_ICON/computer.png",
+        "description": "To be created... ",
+        "skills": [],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+
+    }
+   
+    
+]

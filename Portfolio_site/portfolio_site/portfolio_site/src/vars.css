@@ -1,0 +1,8 @@
+:root {
+  /* Colours */
+  --color-bg: linear-gradient(to right, #cc0303, #ec3838, #cc4444);
+  --color-dropdown: linear-gradient(#BC0000, #681212 );
+  --color-footer: linear-gradient(#4B0606, #B10E0E );
+  /*fonts */
+  --font-robot: "robot";
+}

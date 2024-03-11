@@ -1,0 +1,31 @@
+.starting{
+ text-align: center;
+ padding-top: 100px;
+ font-size: 70px;
+}
+.container{
+    
+    padding-bottom:10%;
+    justify-content: center;
+    text-align: center;
+    background: rgb(133, 3, 3);
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 10%;
+    margin-top: 1%;
+    border-radius: 10px;
+ 
+}
+.text h2{
+    padding-top: 100px;
+    padding-bottom: 20px; 
+    font-size: 40px;
+}
+
+.text p{
+    padding-left: 15%;
+    padding-right: 15%;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
